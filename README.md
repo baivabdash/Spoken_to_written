@@ -21,6 +21,6 @@ from speech_to_text import speech_to_text
 
 speech_to_text.convert()
 
->>Input the sentence to be converted
+[Inp]:Input the sentence to be converted
 
->>Output of converted sentence
+[Out]:Output of converted sentence
