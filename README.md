@@ -7,9 +7,15 @@ For example, "two dollars" should be converted to $2. Abbreviations spoken as "C
 
 #Installation
 
+Open terminal in the downloaded folder and type below..
+
 python3 setup.py install
 
+Now it is installed
+
 #Usage
+
+Now import by following commands..
 
 from speech_to_text import speech_to_text
 
